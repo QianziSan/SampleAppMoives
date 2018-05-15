@@ -72,7 +72,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text>
-          正在加载电影数据……
+          loading……
         </Text>
       </View>
     );
